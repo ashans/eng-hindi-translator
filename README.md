@@ -1,6 +1,8 @@
 # English ⇔ Hindi Translation with a Sequence to Sequence Network and Attention
 > This is a English to Hindi and Hindi to English translator using PyTorch with RNN (Sequence to Sequence network)
 
+[View notebook](two_way_seq2seq_translator.ipynb)
+
 ## Structure
 ```
 project
